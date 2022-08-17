@@ -4,3 +4,5 @@ index.html
 index.js
 .obsidian/**
 memo.md
+.trash/
+.DS_Store
